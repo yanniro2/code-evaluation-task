@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John Doe",
+    "star": 5,
+    "sub": "Frontend Developer",
+    "details": "John is a skilled frontend developer with 5 years of experience in React and Tailwind CSS, working on large-scale projects for international clients.",
+    "profile_avatar": "/images/avatars/david_liu.png"
+  },
+  {
+    "name": "Jane Smith",
+    "star": 4,
+    "sub": "UI/UX Designer",
+    "details": "Jane is an expert in creating engaging user interfaces with Figma and Adobe XD. She has a strong understanding of user experience principles.",
+    "profile_avatar": "/images/avatars/jane_smith.png"
+  },
+  {
+    "name": "Michael Lee",
+    "star": 4.5,
+    "sub": "Full Stack Developer",
+    "details": "Michael has 7 years of experience in full stack development using Node.js and MongoDB. He is proficient in creating robust backend systems.",
+    "profile_avatar": "/images/avatars/michael_lee.png"
+  },
+  {
+    "name": "Sara Khan",
+    "star": 5,
+    "sub": "Backend Developer",
+    "details": "Sara specializes in backend development with Python and Django. She is passionate about building scalable and secure APIs.",
+    "profile_avatar": "/images/avatars/sara_khan.png"
+  },
+  {
+    "name": "David Liu",
+    "star": 3.5,
+    "sub": "Graphic Designer",
+    "details": "David is a talented graphic designer with expertise in branding, illustration, and digital media, working with startups and established brands alike.",
+    "profile_avatar": "/images/avatars/david_liu.png"
+  },
+  {
+    "name": "Emily Brown",
+    "star": 4.8,
+    "sub": "Product Manager",
+    "details": "Emily has 10 years of experience in managing product lifecycles and cross-functional teams, focusing on delivering high-quality digital products.",
+    "profile_avatar": "/images/avatars/emily_brown.png"
+  }
+]
