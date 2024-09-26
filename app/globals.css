@@ -14,3 +14,8 @@
 body {
   @apply bg-primary;
 }
+
+.box {
+  background: linear-gradient(90deg, #003E33 13%, rgba(0, 62, 51, 0.71) 20%, rgba(0, 62, 51, 0) 30%, rgba(0, 62, 51, 0) 70%, rgba(0, 62, 51, 0.7) 80%, #003E33 87%);
+
+}
