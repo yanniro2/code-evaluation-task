@@ -18,7 +18,7 @@ const Card: React.FC<Profile> = ({
   profile_avatar,
 }) => {
   return (
-    <div className="bg-[#fff] p-5 border border-gray-200 rounded-lg shadow-sm w-[50vw] h-full block drop-shadow">
+    <div className="bg-[#fff] p-5 border border-gray-200 rounded-lg shadow-sm sm:w-[50vw] h-full drop-shadow w-[90%] gap-[1rem] flex flex-col">
       <div className="flex items-center gap-3 w-full">
         <Image
           src={profile_avatar}
@@ -39,7 +39,9 @@ const Card: React.FC<Profile> = ({
           <p className="text-sm text-[#0A0F09B2] font-poppins">{sub}</p>
         </div>
       </div>
-      <p className="text-gray-700 font-poppins mt-4">{details}</p>
+      <p className="text-gray-700 font-poppins sm:mt-4 text-sm sm:text-[1rem]">
+        {details}
+      </p>
     </div>
   );
 };
