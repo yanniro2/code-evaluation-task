@@ -61,4 +61,4 @@ The project is deployed on **Vercel** and can be accessed [here](https://code-ev
 
 Feel free to reach out for any questions or feedback.
 
-- Niroyan Kugaruban[portfolio](https://bento.me/niroyan).
+- Niroyan Kugaruban [portfolio](https://bento.me/niroyan).
