@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <main className="w-full h-screen bg-primary relative">
       <div className="box z-50 absolute w-screen h-screen hidden sm:block"></div>
-      <div className="container mx-auto flex items-center justify-center h-full flex-col gap-[1rem]">
+      <div className="container mx-auto flex items-center justify-center h-full flex-col gap-[1rem] p-3">
         <div className="flex items-center justify-center flex-col sm:gap-[3px] gap-[1rem]">
           <div className="bg-[rgba(219,161,77,0.1)] border border-secound rounded-full font-semibold font-poppins text-[#F8F3F0CC] px-8 py-2 text-center inline-block">
             ONZE STOPPERS
